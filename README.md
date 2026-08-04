@@ -1,5 +1,5 @@
-# 📊 SQL Sales Intelligence
-### Transforming Raw Sales Data into Strategic Business Decisions
+# 📊 Turning Sales Data into Strategic Decisions
+## An End-to-End SQL Business Intelligence Project
 
 > "Data tells us what happened. Analytics explains why it happened. Insights help decide what should happen next."
 
