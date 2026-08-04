@@ -1,4 +1,4 @@
-# 📊 SQL Sales Intelligence Hub
+# 📊 SQL Sales Intelligence
 ### Transforming Raw Sales Data into Strategic Business Decisions
 
 > "Data tells us what happened. Analytics explains why it happened. Insights help decide what should happen next."
